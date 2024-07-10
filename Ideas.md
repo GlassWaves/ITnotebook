@@ -1,0 +1,6 @@
+- Clipboard with Regex
+- All routes between two metro stations
+- Personal nutritional database : El sistema debe calcular que ingredientes y la cantidad que debo comprar según el menu de la semana. 
+- All PNG in a single PDF
+- Sistema para crear estados financieros
+- Proceso de contabilidad
