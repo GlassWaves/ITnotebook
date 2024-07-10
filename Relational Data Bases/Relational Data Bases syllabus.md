@@ -1,6 +1,5 @@
 ---
-tags:
-  - Syllabus
+tags: []
 ---
 
 # Loreguia

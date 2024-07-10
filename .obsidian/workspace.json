@@ -11,8 +11,12 @@
             "id": "1cc8691c78df331a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Sources/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Sources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Sources/Untitled.md"
               }
             }
           }
@@ -143,23 +147,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31ee7b5a7f587755",
+  "active": "1cc8691c78df331a",
   "lastOpenFiles": [
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/Untitled.md",
+    "Relational Data Bases/Relational Data Bases syllabus.md",
+    "Settings/Templates/tpl.sources.md",
+    "Settings/Templates/tpl.notes.md",
+    "Ideas.md",
+    "Relational Data Bases/Sistema de Base de datos.md",
+    "Relational Data Bases/Clave.md",
+    "Relational Data Bases/Base de datos.md",
+    "Relational Data Bases/Integridad.md",
+    "Relational Data Bases/Entidad.md",
+    "Relational Data Bases/Campo.md",
     "my_it_notebook",
     "Statistics/Statistics syllabus.md",
     "Sources/src.Loreguia.md",
     "Sources/src.Base de datos repaso cabron.md",
     "Sources/src.Python Essentials 2.md",
-    "Settings/Templates/tpl.sources.md",
-    "Settings/Templates/tpl.notes.md",
-    "Relational Data Bases/Campo.md",
-    "Relational Data Bases/Base de datos.md",
-    "Relational Data Bases/Relational Data Bases syllabus.md",
-    "Relational Data Bases/Entidad.md",
-    "Relational Data Bases/Sistema de Base de datos.md",
-    "Relational Data Bases/Integridad.md",
-    "Relational Data Bases/Clave.md",
-    "Ideas.md",
     "Alpha beta pruning.md",
     "Minimax.md",
     "Negamax.md",
@@ -180,8 +186,6 @@
     "Annexes",
     "Algorithms",
     "Machines",
-    "Sources/Authors",
-    "Settings/Templates",
-    "Welcome.md"
+    "Sources/Authors"
   ]
 }
