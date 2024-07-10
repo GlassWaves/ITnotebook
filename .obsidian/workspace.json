@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "varrels.md",
+                "file": "Relational Data Bases/varrels.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "varrels.md",
+                "file": "Relational Data Bases/varrels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "varrels.md",
+                "file": "Relational Data Bases/varrels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "varrels.md"
+                "file": "Relational Data Bases/varrels.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   "active": "1cc8691c78df331a",
   "lastOpenFiles": [
     "Relational Data Bases/Base de datos Relacional.md",
-    "varrels.md",
-    "variables de relacion.md",
+    "Relational Data Bases/varrels.md",
     "Relational Data Bases/Relational Data Bases syllabus.md",
+    "variables de relacion.md",
     "Settings/Templates/tpl.notes.md",
     "Settings/Templates/tpl.sources.md",
     "Sources/src.Class notes.md",
