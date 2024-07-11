@@ -25,3 +25,8 @@ Si eliminamos la fila 4 entonces ahora `Empleado` tiene un valor de tres filas:
 ```TutorialD
 Empleado := Empleado MINUS (Empleado WHERE idEmpleado = 4) 
 ```
+
+# Operaciones
+- `INSERT`
+- `UPDATE`
+- `DELETE`
