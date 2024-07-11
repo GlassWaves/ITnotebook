@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f59cb31371e64718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,26 +160,26 @@
       "templates:Insert template": false
     }
   },
-  "active": "1cc8691c78df331a",
+  "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Relational Data Bases/Relación.md",
+    "Relational Data Bases/Principio de la información.md",
+    "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Modelo relacional de datos.md",
     "Relational Data Bases/Base de datos Relacional.md",
-    "Relational Data Bases/Sistema relacional.md",
-    "Relational Data Bases/Principio de la información.md",
+    "Relational Data Bases/Relación.md",
     "Relational Data Bases/Varrels.md",
+    "Relational Data Bases syllabus.md",
+    "Sources/src.Conjunto abierto.md",
+    "Sources/src.Notes from Loreli's class.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/src.Escalar (matematica).md",
+    "Settings/Templates/tpl.notes.md",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
-    "Sources/src.Escalar (matematica).md",
-    "Sources/src.Conjunto abierto.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Notes from Loreli's class.md",
     "Ideas.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Settings/Templates/tpl.sources.md",
-    "Settings/Templates/tpl.notes.md",
     "Maths",
-    "Relational Data Bases syllabus.md",
     "variables de relacion.md",
     "Relational Data Bases/Sistema de Base de datos.md",
     "Relational Data Bases/Clave.md",

@@ -1,6 +1,3 @@
----
-tags: []
----
 
 # Loreguia
 Conceptos básicos
