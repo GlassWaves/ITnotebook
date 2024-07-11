@@ -11,6 +11,7 @@ tags:
 Definiciones obtenidas de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 
 # Interpretación semántica
+## Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
 > - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
