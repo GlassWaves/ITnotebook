@@ -1,4 +1,4 @@
->Variables de relación; es decir, variables cuyos valores son valores de relación (diferentes valores de [[Relación|relación]] en diferentes momentos)
+>Variables de relación; es decir, variables cuyos valores son valores de relación (diferentes valores de [[Relación]] en diferentes momentos)
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p64
 
 
@@ -23,6 +23,5 @@ Si eliminamos la fila 4 entonces ahora `Empleado` tiene un valor de tres filas:
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
 
 ```TutorialD
-
 Empleado := Empleado MINUS (Empleado WHERE Empleado = 4) 
 ```
