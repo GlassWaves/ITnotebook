@@ -43,14 +43,19 @@ Empleado := Empleado MINUS (Empleado WHERE idEmpleado = 4)
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p71
 
 ```SQL
-CREATE TABLE EMP...;
+CREATE TABLE empleado...;
 ```
 ## Derivada
 >Relación que es o puede ser obtenida a partir de dichas relaciones base por medio de alguna expresión relacional
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p71
 
 ```SQL
-
+WITH EmpleadoConDepartamento AS (
+	SELECT E.idEmpleado,D.idDepartamento AS Departamento
+	FROM Empleado E
+	JOIN Departamento D ON E.idDepartamento = D.idDepartamento
+)
+SELECT * FROM EmpleadoConDepartamento;
 ```
 ### Vista
 Su valor es el resultado de evaluar cierta expresión relacional en ese momento; esta expresión se especifica en el momento en que se crea la vista
