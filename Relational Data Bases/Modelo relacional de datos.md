@@ -13,4 +13,8 @@ tags:
 | Manipulación | Tiene que ver con los operadores (restringir, proyectar, juntar, etc.) |
 # Componentes
 - Un [[Conjunto abierto]] de [[Escalar|tipos escalares]] (incluyendo en particular el `tipo lógico` o valor `verdadero`)
-	- Este punto se refiere a que se manejan los tipos de datos son atómicas
+	- Este punto se refiere al conjunto de tipos de datos que están contenidos en una [[Relación]]
+- Un `generador de tipos de relación` y una interpretación de dichos tipos
+- Herramientas para definir [[Varrels]] de dichos` tipos de relación generados`
+
+Esto fue obtenido de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p62
