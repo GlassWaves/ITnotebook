@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Relational Data Bases/Sistema relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Relational Data Bases/Sistema relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Relational Data Bases/Sistema relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md"
+                "file": "Relational Data Bases/Sistema relacional.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "1cc8691c78df331a",
   "lastOpenFiles": [
+    "Relational Data Bases/Relación.md",
     "Relational Data Bases/Principio de la información.md",
     "Relational Data Bases/Base de datos Relacional.md",
     "Relational Data Bases/Modelo relacional de datos.md",
     "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Varrels.md",
-    "Relational Data Bases/Relación.md",
     "Relational Data Bases syllabus.md",
     "variables de relacion.md",
     "Settings/Templates/tpl.notes.md",

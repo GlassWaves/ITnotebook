@@ -1,5 +1,5 @@
 > Este modelo se ocupa sólo de los aspectos lógicos de los datos
-> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 
 | Aspecto      | Descripción                                                            |
 | ------------ | ---------------------------------------------------------------------- |

@@ -1,13 +1,25 @@
+# Elementos
+| Elemento   | Descripción                                          |
+| ---------- | ---------------------------------------------------- |
+| Encabezado | Conjunto de parejas nombre_de_columna:nombre_de_tipo |
+| Cuerpo     | Conjunto de filas que se apegan al encabezado        |
+Definiciones obtenidas de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 
-- Los `tipos` son (conjuntos de) cosas de las que podemos hablar
-- Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
-# Interpretación
+# Interpretación semántica
+> - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
+> - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
+
+
+>Los `tipos` son a las `relaciones` lo que los `sustantivos` son a las `oraciones`.
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
+# Interpretación lógica
 
 > Dada una relación `r` , el encabezado de `r` denota un cierto `predicado` o `función valuada` como `verdadera`
-> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
 
 >Cada fila en el cuerpo de `r` denota una cierta `proposición verdadera`, obtenida del `predicado` por medio de la sustitución de ciertos valores de argumento
->[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
 
 ## Ejemplo
 De la relación `Empleado`:
