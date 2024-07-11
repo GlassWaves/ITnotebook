@@ -15,7 +15,9 @@ tags:
 - Un [[Conjunto abierto]] de [[Escalar|tipos escalares]] (incluyendo en particular el `tipo lógico` o valor `verdadero`)
 	- Este punto se refiere al conjunto de tipos de datos que están contenidos en una [[Relación]]
 - Un generador de [[Relación#Tipos y relaciones|tipos de relación]] y una interpretación de dichos tipos
+	- Este punto se refiere a que existe un mecanismo que define la estructura de las relaciones (sus atributos)
 - Herramientas para definir [[Varrels]] de dichos [[Relación#Tipos y relaciones|tipos de relación]] generados
+	- 
 - Una operación `asignación relacional` para asignar valores de relación a las variables de relación mencionadas
 - Un conjunto abierto de [[Sistema relacional#Operador relacional|operadores relacionales]] genéricos para derivar valores de relación de oros valores de relación
 
