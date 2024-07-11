@@ -1,3 +1,8 @@
+---
+tags:
+  - Notes
+  - RDB
+---
 >Maneja bases de datos y operaciones relacionales en dichas bases de datos, incluyendo las operaciones `restringir, proyectar y juntar`
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p78
 
