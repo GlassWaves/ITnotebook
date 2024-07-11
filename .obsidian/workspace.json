@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Varrels.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Varrels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Varrels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Transacción.md"
+                "file": "Data Bases/Varrels.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
     "Data Bases/Sistema relacional.md",
-    "Data Bases/Relación.md",
-    "Data Bases/Principio de la información.md",
     "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Principio de la información.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Transacción.md",
     "Data Bases/Varrels.md",
     "Sources/src.Notes from Loreli's class.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
