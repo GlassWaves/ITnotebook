@@ -12,4 +12,4 @@ tags:
 | Integridad   | Tiene que ver (entre otras cosas) con las claves primeria y externa    |
 | Manipulación | Tiene que ver con los operadores (restringir, proyectar, juntar, etc.) |
 # Componentes
-- Un conjunto abierto de `tipos escalares` (incluyendo en particular el `tipo lógico` o valor `verdadero`)
+- Un [[Conjunto abierto]] de [[Escalar|tipos escalares]] (incluyendo en particular el `tipo lógico` o valor `verdadero`)
