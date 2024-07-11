@@ -1,12 +1,27 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:Sources  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Relational Data Bases\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
+    },
+    {
+      "query": "path:Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14107202
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 1.0000000000000007,
+  "close": false
 }
