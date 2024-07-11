@@ -33,11 +33,11 @@
     "debugMode": false
   },
   "Sources": "📑",
-  "Relational Data Bases": "💾",
   "Settings": "⚙",
   "Annexes": "🔗",
   "Annexes/img": "🖼",
   "Annexes/pdf": "📕",
   "Ideas.md": "💡",
-  "Maths": "🥯"
+  "Maths": "🥯",
+  "Data Bases": "💾"
 }
