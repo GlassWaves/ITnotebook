@@ -9,7 +9,7 @@
 Definiciones obtenidas de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p
 # Propiedad de cierre
 > La salida de toda operación es la misma clase de objeto que la entrada (todas son relaciones)
-> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p78
 
 # Teoria formal 
 [[Modelo relacional de datos]]
