@@ -1,5 +1,8 @@
 
+- Los `tipos` son (conjuntos de) cosas de las que podemos hablar
+- Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
 # Interpretación
+
 > Dada una relación `r` , el encabezado de `r` denota un cierto `predicado` o `función valuada` como `verdadera`
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
 

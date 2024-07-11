@@ -144,14 +144,14 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "janitor:Janitor: scan vault": false,
-      "templater-obsidian:Templater": false
+      "templates:Insert template": false
     }
   },
   "active": "1cc8691c78df331a",
   "lastOpenFiles": [
     "Relational Data Bases/Relación.md",
-    "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Varrels.md",
+    "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Base de datos Relacional.md",
     "Relational Data Bases syllabus.md",
     "variables de relacion.md",
