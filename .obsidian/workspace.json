@@ -23,8 +23,12 @@
             "id": "f59cb31371e64718",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Relational Data Bases/Catálogo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relational Data Bases/Catálogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relational Data Bases/Catálogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Relational Data Bases/Catálogo.md"
+              }
             }
           }
         ]
@@ -154,17 +162,18 @@
   },
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Relational Data Bases/Base de datos Relacional.md",
-    "Relational Data Bases/Modelo relacional de datos.md",
+    "Relational Data Bases/Catálogo.md",
+    "Relational Data Bases/Varrels.md",
+    "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Relación.md",
     "Relational Data Bases/Principio de la información.md",
-    "Relational Data Bases/Sistema relacional.md",
-    "Relational Data Bases/Varrels.md",
-    "Relational Data Bases syllabus.md",
-    "Sources/src.Conjunto abierto.md",
+    "Relational Data Bases/Modelo relacional de datos.md",
+    "Relational Data Bases/Base de datos Relacional.md",
     "Sources/src.Notes from Loreli's class.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Escalar (matematica).md",
+    "Sources/src.Conjunto abierto.md",
+    "Relational Data Bases syllabus.md",
     "Settings/Templates/tpl.notes.md",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
@@ -182,7 +191,6 @@
     "my_it_notebook",
     "Statistics/Statistics syllabus.md",
     "Sources/src.Loreguia.md",
-    "Sources/src.Base de datos repaso cabron.md",
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
     "Relational Data Bases/Notes",

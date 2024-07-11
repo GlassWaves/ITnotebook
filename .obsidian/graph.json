@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Sources  ",
+  "search": "tag:#Notes  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000007,
-  "close": false
+  "scale": 1.0000000000000016,
+  "close": true
 }
