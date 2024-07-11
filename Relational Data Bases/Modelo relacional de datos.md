@@ -13,3 +13,4 @@ tags:
 | Manipulación | Tiene que ver con los operadores (restringir, proyectar, juntar, etc.) |
 # Componentes
 - Un [[Conjunto abierto]] de [[Escalar|tipos escalares]] (incluyendo en particular el `tipo lógico` o valor `verdadero`)
+	- Este punto se refiere a que se manejan los tipos de datos son atómicas
