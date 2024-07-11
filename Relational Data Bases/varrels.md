@@ -23,5 +23,6 @@ Si eliminamos la fila 4 entonces ahora `Empleado` tiene un valor de tres filas:
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
 
 ```TutorialD
+
 Empleado := Empleado MINUS (Empleado WHERE Empleado = 4) 
 ```
