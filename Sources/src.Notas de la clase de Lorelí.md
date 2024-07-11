@@ -4,5 +4,5 @@ tags:
   - RDB
 link/isbn-13: 
 aliases:
-  - Lorelí
+  - Notas de clase - Lorelí
 ---

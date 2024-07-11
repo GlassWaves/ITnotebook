@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Relational Data Bases\"  ",
+      "query": "path:\"Data Bases\"  ",
       "color": {
         "a": 1,
         "rgb": 6069206
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000016,
-  "close": true
+  "scale": 1.0000000000000018,
+  "close": false
 }

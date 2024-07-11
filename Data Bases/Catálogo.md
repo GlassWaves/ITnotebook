@@ -30,8 +30,8 @@ A continuación se muestran los descriptores de la `TABLA` y `COLUMNA`, los meta
 | -------- | ----------- | ----- |
 | DEPTO    | DEPTO#      | ..... |
 | DEPTO    | NOMDEPTO    | ..... |
-| DEPTO    | PRESUPUESTO |       |
-| EMP      | EMP#        |       |
-| EMP      | NOMEMP      |       |
-| EMP      | DEPTO#      |       |
-| EMP      | SALARIO     |       |
+| DEPTO    | PRESUPUESTO | ..... |
+| EMP      | EMP#        | ..... |
+| EMP      | NOMEMP      | ..... |
+| EMP      | DEPTO#      | ..... |
+| EMP      | SALARIO     | ..... |

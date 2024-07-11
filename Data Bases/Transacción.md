@@ -15,10 +15,11 @@ tags:
 Definiciones obtenidas de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p75
 
 # Operaciones
-| Operación         | Descripción           |
-| ----------------- | --------------------- |
-| BEGIN TRANSACTION | Inicia la transacción |
-|                   |                       |
+| Operación         | Descripción                            |
+| ----------------- | -------------------------------------- |
+| BEGIN TRANSACTION | Inicia la transacción                  |
+| COMMIT            | Ejecuta los cambios a la base de datos |
+| ROLLBACK          | Se deshacen los cambios hechos         |
 
 ## Ejemplo
 ```

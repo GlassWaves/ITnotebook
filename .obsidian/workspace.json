@@ -23,12 +23,8 @@
             "id": "f59cb31371e64718",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Bases/Transacción.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Transacción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Transacción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Bases/Transacción.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,22 +154,22 @@
   },
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Data Bases/Relación.md",
-    "Data Bases/Varrels.md",
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Transacción.md",
-    "Data Bases/Principio de la información.md",
     "Data Bases/Catálogo.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Sources/src.Notes from Loreli's class.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Escalar (matematica).md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Principio de la información.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Sistema relacional.md",
+    "Data Bases/Varrels.md",
     "Sources/src.Conjunto abierto.md",
-    "Relational Data Bases syllabus.md",
-    "Settings/Templates/tpl.notes.md",
+    "Sources/src.Escalar (matematica).md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/src.Notas de la clase de Lorelí.md",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Relational Data Bases syllabus.md",
+    "Settings/Templates/tpl.notes.md",
     "Ideas.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Settings/Templates/tpl.sources.md",
