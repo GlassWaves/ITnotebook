@@ -15,7 +15,8 @@ De la relación `Empleado`:
 | 2          | Cheng    | 2              | 42000   |
 | 3          | Smith    | 4              | 30000   |
 | 4          | Vladimir | 4              | 15000   |
-El predicado es :
+
+### Predicado
 El empleado `idEmpleado` se llama `nombre`, trabaja en el departamento `idDepartamento` y gana un salario de `salario`
 
 Parámetros :
@@ -24,5 +25,6 @@ Parámetros :
 - idDepartamento
 - salario
 
-Un ejemplo de proposición verdadera es :
-El empleado `1` se llama `Lopez`, trabaja en el departamento `idDepartament`
+### Proposición verdadera
+El empleado `1` se llama `Lopez`, trabaja en el departamento `idDepartamento` y gana un salario de `40000`
+
