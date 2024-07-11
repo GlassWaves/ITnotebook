@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Set theory/Conjunto abierto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Set theory/Conjunto abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md",
+                "file": "Set theory/Conjunto abierto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Data Bases/Modelo relacional de datos.md"
+                "file": "Set theory/Conjunto abierto.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "1cc8691c78df331a",
   "lastOpenFiles": [
+    "Relational Data Bases/Modelo relacional de datos.md",
+    "Set theory/Conjunto abierto.md",
+    "Set theory",
     "Relational Data Bases/Sistema relacional.md",
     "Relational Data Bases/Relación.md",
     "Relational Data Bases/Principio de la información.md",
     "Relational Data Bases/Base de datos Relacional.md",
-    "Relational Data Bases/Modelo relacional de datos.md",
     "Relational Data Bases/Varrels.md",
     "Relational Data Bases syllabus.md",
     "variables de relacion.md",
@@ -175,7 +177,6 @@
     "Sources/src.Python Essentials 2.md",
     "Alpha beta pruning.md",
     "Minimax.md",
-    "Negamax.md",
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
     "Relational Data Bases/Notes",
@@ -185,7 +186,6 @@
     "Untitled.canvas",
     "Annexes",
     "Algorithms",
-    "Machines",
-    "Sources/Authors"
+    "Machines"
   ]
 }
