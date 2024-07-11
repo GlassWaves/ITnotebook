@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Base de datos Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Base de datos Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Transacción.md",
+                "file": "Data Bases/Base de datos Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Transacción.md"
+                "file": "Data Bases/Base de datos Relacional.md"
               }
             }
           }
@@ -162,9 +162,13 @@
   },
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Catálogo.md",
+    "Maths/Escalar.md",
+    "Maths/Conjunto abierto.md",
+    "Data Bases/Sistema relacional.md",
+    "Sources/src.SQL con clase.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/Relación.md",
@@ -173,9 +177,6 @@
     "Sources/src.Escalar (matematica).md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Notas de la clase de Lorelí.md",
-    "Maths/Escalar.md",
-    "Maths/Conjunto abierto.md",
-    "Data Bases/Transacción.md",
     "Relational Data Bases syllabus.md",
     "Settings/Templates/tpl.notes.md",
     "Ideas.md",
@@ -190,7 +191,6 @@
     "Relational Data Bases/Entidad.md",
     "Relational Data Bases/Campo.md",
     "my_it_notebook",
-    "Statistics/Statistics syllabus.md",
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
     "Relational Data Bases/Notes",
