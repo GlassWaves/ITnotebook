@@ -77,7 +77,9 @@ EXEC SQL OPEN X;
 EXEC SQL CLOSE X;
 ```
 
-- ``
+- Se tiene que declarar `X CURSOR` para asignarle el conjunto a recuperar
+- Para declarar el `FETCH` tiene que estar entre `OPEN/CLOSE <nombre del cursor>`
+- `FETCH` es el que ayuda a recuperar una por una las filas del conjunto
 ### Operaciones que no involucran cursores
 - SELECT /*individual*/
 - INSERT
