@@ -1,0 +1,5 @@
+
+# Comandos
+- BEGIN TRANSACTION
+- COMMIT
+- ROLLBACK
