@@ -11,11 +11,28 @@
             "id": "535b17c65d1701ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Bases/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2571b92739eade9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data manipulation Language.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data manipulation Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data manipulation Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data manipulation Language.md"
+              }
             }
           }
         ]
@@ -138,15 +159,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "535b17c65d1701ec",
+  "active": "2571b92739eade9c",
   "lastOpenFiles": [
     "Data Bases/SQL.md",
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Relación.md",
+    "Data manipulation Language.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Esquema de información.md",
-    "Data Bases/Data Definition Language.md",
+    "Data Bases/Data definition language.md",
+    "Data Bases/Relación.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Data Bases/Sistema relacional.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
     "Base de datos.md",
@@ -154,7 +177,6 @@
     "Data Bases/Base de datos.md",
     "Data Bases/Varrels.md",
     "Data Bases/Transacción.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Sources/src.Notas de la clase de Lorelí.md",
     "Sources/src.SQL con clase.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
@@ -166,7 +188,6 @@
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
     "Settings/Templates/tpl.notes.md",
-    "Ideas.md",
     "Maths",
     "my_it_notebook",
     "Annexes/img/img.Modo promiscuo.png",

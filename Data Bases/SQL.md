@@ -3,7 +3,11 @@ tags:
   - Notes
   - RDB
 ---
-
+# Sub lenguajes
+- [[Data definition language|DDL]]
+- [[Data manipulation Language|DML]]
+- [[Data control language|DCL]]
+- [[Transaction control language|TCL]]
 ## Catálogo y esquema
 > Un `catálogo de SQL` consiste en los descriptores de esa parte de la base de datos individual, mientras que un `esquema de SQL` consiste en los descriptores de esa parte de la base da tos que pertenece a un usuario individual
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p87
