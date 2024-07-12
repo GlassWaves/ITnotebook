@@ -24,9 +24,22 @@ EXEC SQL BEGIN DECLARE SECTION;
 	DCL PESO FIXED DECIMAL(5,1);
 	
 EXEC SQL END DECLARE SECTION;
+
+P# = 'P2'
+
+EXEC SQL SELECT P.PESO
+		 INTO :PESO
+		 FROM P
+		 WHERE P.P# = :P#;
+IF SQLSTATE = '00000'
+THEN ...;
+ELSE ...;
 ```
- - Debe iniciar con `EXEC SQL`
- - Las `variables anfitrión` deben estar declaradas entre `BEGIN` y `END DECLARE SECTION`
+ - `EXEC SQL` sirve para distinguir las instrucciones `SQL` de las del lenguaje anfitrión
+ - Las `variables anfitrión` que serán referenciadas deben estar declaradas entre `BEGIN` y `END DECLARE SECTION` y precedidas por un `DCL`
+ -  Las `variables anfitrión` al ser referenciadas debe ser precedidas por `:` (ejemplo `:PESO`)
+ - Debe de haber una `variable anfitrión` llamada `SQLSTATE`, que mediante codigo indicara el estado de ejecucion del 
+	 - ``
 # Cursores
 # Dato interesante
 >en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
