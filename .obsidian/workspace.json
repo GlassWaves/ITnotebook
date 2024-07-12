@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cc8691c78df331a",
+            "id": "535b17c65d1701ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Varrels.md",
+                "file": "Data Bases/Esquema de información.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Varrels.md",
+                "file": "Data Bases/Esquema de información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Varrels.md",
+                "file": "Data Bases/Esquema de información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Varrels.md"
+                "file": "Data Bases/Esquema de información.md"
               }
             }
           }
@@ -147,36 +147,36 @@
       "templates:Insert template": false
     }
   },
-  "active": "1cc8691c78df331a",
+  "active": "535b17c65d1701ec",
   "lastOpenFiles": [
+    "Data Bases/Data Definition Language.md",
     "Data Bases/Esquema de información.md",
-    "Data Bases/Varrels.md",
-    "Data Definition Language.md",
-    "Data Bases/Vistas.md",
+    "Base de datos.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Data Bases/Catálogo.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Esquema de definición.md",
-    "Data Bases/Relación.md",
-    "Data Bases/SQL.md",
-    "Data Bases/Principio de la información.md",
-    "Data Bases/Sistema relacional.md",
     "Data Bases/Base de datos Relacional.md",
+    "Data Bases/SQL.md",
+    "Data Bases/Sistema relacional.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Principio de la información.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Sources/src.Notas de la clase de Lorelí.md",
+    "Sources/src.SQL con clase.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/src.Conjunto abierto.md",
+    "Sources/src.Escalar (matematica).md",
+    "Esquema de definición.md",
+    "Data Bases/Vistas.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
-    "Data Bases/Transacción.md",
-    "Sources/src.SQL con clase.md",
-    "Sources/src.Conjunto abierto.md",
-    "Sources/src.Escalar (matematica).md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Notas de la clase de Lorelí.md",
     "Relational Data Bases syllabus.md",
     "Settings/Templates/tpl.notes.md",
     "Ideas.md",
     "Settings/Templates/tpl.sources.md",
     "Maths",
-    "variables de relacion.md",
-    "Relational Data Bases/Sistema de Base de datos.md",
     "my_it_notebook",
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
