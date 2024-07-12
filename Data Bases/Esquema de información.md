@@ -8,6 +8,6 @@ tags:
 
 
 
-> [!Interpreto que cuando C.J. Date se refiere al esquema de definición ] Title
-> Contents
+> [!NOTE] ¿DDL es lo mismo que el esquema de definición?
+> Interpreto que cuando C.J. Date habla del esquema de definición se esta refiriendo al DDL
 
