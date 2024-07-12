@@ -45,7 +45,7 @@ ELSE ...;
 - Las `variables anfitrión` y las `columnas SQL` pueden tener el mismo nombre
 
 ### WHENEVER
-Cuando la comprobacion no se desea hacer con la variable anfitrión `SQLSTATE` entonces se usa :
+Cuando la comprobación no se desea hacer con la variable anfitrión `SQLSTATE` entonces se usa :
 
 ```SQL
 EXEC SQL WHENEVER <condicion> <acción>;
@@ -59,8 +59,30 @@ EXEC SQL WHENEVER <condicion> <acción>;
 		- El programador insertará a mano las instrucciones
 	- `GO TO`
 		- `IF <condición> GO TO <etiqueta> END IF
-# Cursores
+## Cursores
+### Operaciones que involucran cursores
+Debido a que generalmente los lenguajes de programación no cuentan con mecanismos para la recuperación de filas a nivel de conjunto (muchas filas a la vez), los `cursores` sirven como un puente entre el `lenguaje de programación` y `SQL` para recuperar las filas una a la vez
 
+```SQL
+EXEC SQL DECLARE X CURSOR FOR
+	SELECT V.V#, V.PROVEEDOR, V.STATUS
+	FROM V
+	WHERE V.CIUDAD = :Y
+	ORDER BY V# ASC;
+
+EXEC SQL OPEN X;
+	DO 
+		EXEC SQLFETCH X INTO :V#, :PROVEEDOR, :STATUS;
+		END;
+EXEC SQL CLOSE X;
+```
+
+- ``
+### Operaciones que no involucran cursores
+- SELECT /*individual*/
+- INSERT
+- UPDATE
+- DELETE
 
 # Dato interesante
 >en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
