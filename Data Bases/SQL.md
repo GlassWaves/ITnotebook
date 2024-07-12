@@ -38,9 +38,30 @@ ELSE ...;
  - `EXEC SQL` sirve para distinguir las instrucciones `SQL` de las del lenguaje anfitrión
  - Las `variables anfitrión` que serán referenciadas deben estar declaradas entre `BEGIN` y `END DECLARE SECTION` y precedidas por un `DCL`
  -  Las `variables anfitrión` al ser referenciadas debe ser precedidas por `:` (ejemplo `:PESO`)
- - Debe de haber una `variable anfitrión` llamada `SQLSTATE`, que mediante codigo indicara el estado de ejecucion del 
-	 - ``
+ - Debe de haber una `variable anfitrión` llamada `SQLSTATE`, que mediante código indicara el estado de ejecución de las instrucciones SQL
+	 - `00000` : se ejecutó con éxito
+	 - `02000` : se ejecutó pero no se encontraron datos
+- Los tipos de datos de las `variables anfitrión` deben ser apropiadas para lo que serán usadas
+- Las `variables anfitrión` y las `columnas SQL` pueden tener el mismo nombre
+
+### WHENEVER
+Cuando la comprobacion no se desea hacer con la variable anfitrión `SQLSTATE` entonces se usa :
+
+```SQL
+EXEC SQL WHENEVER <condicion> <acción>;
+```
+
+- Valores de `<condicion>`
+	- `SQLERROR`
+	- `NOT FOUND`
+- Valores de `<acción>`
+	- `CONTINUE`
+		- El programador insertará a mano las instrucciones
+	- `GO TO`
+		- `IF <condición> GO TO <etiqueta> END IF
 # Cursores
+
+
 # Dato interesante
 >en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p87
