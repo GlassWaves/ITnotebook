@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL92.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL92.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL92.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Sistema relacional.md"
+                "file": "Data Bases/SQL92.md"
               }
             }
           }
@@ -162,14 +162,15 @@
   },
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Base de datos Relacional.md",
+    "Data Bases/SQL92.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Sistema relacional.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
     "Data Bases/Varrels.md",
     "Data Bases/Transacción.md",
-    "Data Bases/Sistema relacional.md",
     "Data Bases/Relación.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/Catálogo.md",
