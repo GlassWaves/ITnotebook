@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/SQL incrustado.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL incrustado.md",
+                "file": "Data Bases/SQL incrustado.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/SQL incrustado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/SQL incrustado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Data Bases/SQL incrustado.md"
               }
             }
           }
@@ -160,13 +160,15 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
-    "SQL incrustado.md",
     "Data Bases/SQL.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/SQL dinámico.md",
+    "Data Bases/SQL dinámico 1.md",
+    "Data Bases/Transaction control language.md",
     "Data Bases/Base de datos.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data control language.md",
     "Data Bases/Catálogo.md",
-    "Transaction control language.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Esquema de información.md",
     "Data Bases/Data manipulation Language.md",
@@ -184,8 +186,6 @@
     "Sources/src.Notas de la clase de Lorelí.md",
     "Sources/src.SQL con clase.md",
     "Sources/src.Conjunto abierto.md",
-    "Esquema de definición.md",
-    "Data Bases/Vistas.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths",
     "my_it_notebook",
