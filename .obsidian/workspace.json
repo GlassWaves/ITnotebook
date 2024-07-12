@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL92.md",
+                "file": "Data Bases/Esquema de información.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL92.md",
+                "file": "Data Bases/Esquema de información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL92.md",
+                "file": "Data Bases/Esquema de información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL92.md"
+                "file": "Data Bases/Esquema de información.md"
               }
             }
           }
@@ -162,12 +162,13 @@
   },
   "active": "f59cb31371e64718",
   "lastOpenFiles": [
-    "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Principio de la información.md",
+    "Data Bases/SQL.md",
+    "Data Bases/Esquema de información.md",
     "Data Bases/Relación.md",
+    "Data Bases/Principio de la información.md",
+    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Base de datos Relacional.md",
-    "Data Bases/SQL92.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
@@ -189,7 +190,6 @@
     "Relational Data Bases/Clave.md",
     "Relational Data Bases/Base de datos.md",
     "Relational Data Bases/Integridad.md",
-    "Relational Data Bases/Entidad.md",
     "my_it_notebook",
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
