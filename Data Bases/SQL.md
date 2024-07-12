@@ -4,18 +4,6 @@ tags:
   - RDB
 ---
 
-# Tipos de datos
-- CHARACTER `[ VARYING ]` (n)
-- BIT `[ VARYING ]` (n)
-- NUMERIC (p,q)
-- DECIMAL (p,q)
-- INTEGER
-- SMALLINT
-- FLOAT (p)
-- DATE
-- TIME
-- TIMESTAMP
-- INTERVAL
 ## Catálogo y esquema
 > Un `catálogo de SQL` consiste en los descriptores de esa parte de la base de datos individual, mientras que un `esquema de SQL` consiste en los descriptores de esa parte de la base da tos que pertenece a un usuario individual
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p87
