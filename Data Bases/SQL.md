@@ -61,8 +61,9 @@ EXEC SQL WHENEVER <condicion> <acción>;
 		- `IF <condición> GO TO <etiqueta> END IF
 ## Cursores
 ### Operaciones que involucran cursores
-Debido a que generalmente los lenguajes de programación no cuentan con mecanismos para la recuperación de filas a nivel de conjunto (muchas filas a la vez), los `cursores` sirven como un puente entre el `lenguaje de programación` y `SQL` para recuperar las filas una a la vez
+Debido a que generalmente los lenguajes de programación no cuentan con mecanismos para la recuperación de filas a nivel de conjunto (muchas filas a la vez), los `cursores` sirven como un puente entre el `lenguaje de programación` y `SQL` para recuperar las filas una a la vez.
 
+#### Sintaxis
 ```SQL
 EXEC SQL DECLARE X CURSOR FOR
 	SELECT V.V#, V.PROVEEDOR, V.STATUS
@@ -80,11 +81,24 @@ EXEC SQL CLOSE X;
 - Se tiene que declarar `X CURSOR` para asignarle el conjunto a recuperar
 - Para declarar el `FETCH` tiene que estar entre `OPEN/CLOSE <nombre del cursor>`
 - `FETCH` es el que ayuda a recuperar una por una las filas del conjunto
+- El cursor avanza en la `fila[i]` del conjunto activo y el valor correspondiente es asignado a la `variableAnfitrión[i]` especificada en la clausula `INTO`
+
+```SQL
+EXEC SQL <UPDATE/DELETE> V
+	...
+	WHERE CURRENT OF X;
+```
+- CURRENT permite realizar las operaciones `UPDATE` y `DELETE` en la fila actual en la que se encuentre el cursor
+	- Esto no aplica cuando la vista esta restringida
 ### Operaciones que no involucran cursores
 - SELECT /*individual*/
 - INSERT
 - UPDATE
 - DELETE
+
+# SQL dinámico
+>Serie de propiedades del [[SQL incrustado]] que estan destinadas a apoyar la construcción de aplicaciones generales, en línea y posiblemente interactivas
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p96
 
 # Dato interesante
 >en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
