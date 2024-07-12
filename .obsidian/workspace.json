@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "535b17c65d1701ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Bases/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2571b92739eade9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Bases/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "001ba202edc063cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Bases/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3c44de21df54c91",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,19 +148,19 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
+    "Data Bases/Base de datos.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/SQL.md",
     "Data Bases/Catálogo.md",
     "Transaction control language.md",
-    "Data Bases/SQL.md",
     "Data Bases/Sistema relacional.md",
-    "Data Bases/Data control language.md",
     "Data Bases/Esquema de información.md",
     "Data Bases/Data manipulation Language.md",
     "Data Bases/Data definition language.md",
     "Sources/src.Lenguaje de control de datos.md",
     "Data Bases/Relación.md",
-    "Data Bases/Base de datos Relacional.md",
     "Sources/src.Escalar matematica.md",
-    "Data Bases/Base de datos.md",
     "Relational Data Bases syllabus.md",
     "Data Bases/Varrels.md",
     "Data Bases/Transacción.md",

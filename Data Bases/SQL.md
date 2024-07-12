@@ -14,6 +14,20 @@ tags:
 
 # SQL incrustado
 Instrucciones SQL que pueden estar entremezcladas con las instrucciones del lenguaje de programación de una aplicación [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p89
+
+## Sintaxis
+```SQL
+EXEC SQL BEGIN DECLARE SECTION;
+
+	DCL SQLTATE CHAR(5);
+	DCL P# CHAR(6);
+	DCL PESO FIXED DECIMAL(5,1);
+	
+EXEC SQL END DECLARE SECTION;
+```
+ - Debe iniciar con `EXEC SQL`
+ - Las `variables anfitrión` deben estar declaradas entre `BEGIN` y `END DECLARE SECTION`
+# Cursores
 # Dato interesante
 >en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p87
