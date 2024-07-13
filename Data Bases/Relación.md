@@ -3,6 +3,9 @@ tags:
   - Notes
   - RDB
 ---
+# Estructura
+
+
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
 > - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
