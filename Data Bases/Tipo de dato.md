@@ -30,12 +30,27 @@ Y de hecho, esta comprobación de operandos tiene que ver con el [[Modelado sem�
 # No escalar
 > Esta definido explícitamente para tener componentes visibles para el usuario
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p115
-
 ## Ejemplo
-De la relación `Envio(idEnvio,proveedor,status,ciudad)` sus atributos son del `tipo no escalar`
+De la relación `Envio` =
 
+```
+{idEnvio : idEnvio,
+proveedor : nombre,
+status : status,
+ciudad : ciudad}
+```
+
+sus atributos son del `tipo no escalar` por que los `tipos` están definidos por el usuario.
 # Escalar
 >Son aquellos que no tienen componentes visibles para el usuario
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p115
-
 ## Ejemplo
+De la relación `Envio` =
+```
+{idEnvio : CHAR
+proveedor : CHAR
+status : CHAR
+ciudad : CHAR}
+```
+
+susatribut
