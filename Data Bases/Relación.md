@@ -22,8 +22,17 @@ Tabla recuperada de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Dat
 Es un `tipo de dato` definido por el sistema (`INTEGER`, `CHARACTER`, etc.) o por el usuario (`peso`, `cantidad`, etc.)
 Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
 ## Tipo de dato
-Conjunto de valores posi
-Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
+> Conjunto de valores -*todos los valores posibles del tipo en cuestión*
+>  [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
+
+Este conjunto de valores a su vez tiene `operadores` definidos exclusivamente para el mismo.
+
+### Ejemplo
+`INTEGER` es el conjunto de todos los enteros posibles
+`idProveedor` es el conjunto de todos los id's de proveedor posibles
+
+`INTEGER` tiene los operadores `=,<,>,*,+,-,÷`
+`idProveedor` no
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
 > - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
