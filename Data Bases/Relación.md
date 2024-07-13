@@ -9,6 +9,14 @@ tags:
 
 # Encabezado
 > Conjunto de $n$ `atributos` de la forma $Ai:Ti$, donde los $Ai$ (que deben ser todos distintos) son los `nombres de atributo` de $r$ y los $Ti$; es decir, el `valor de atributo` para el atributo $Ai$ de la tupla $t(i=1,2,...,n)$
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p123
+
+El valor de $n$ es el `grado`
+# Cuerpo
+>Conjunto de $m$ tuplas $t$, en donde $t$ es a su vez un conjunto de componentes de la forma $Ai:vi$ en la cual $vi$ es un valor de tipo $Ti$, es decir, el `valor de atributo` $Ai$ de la tupla $t(i=1,2,...,n)$
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p123
+
+El valor de $m$ es la `cardinalidad`
 # Estructura
 ![[img.Relacion.png]]
 Diagrama recuperado de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p111
