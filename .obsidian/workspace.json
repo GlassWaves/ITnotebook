@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Sources/src.Conjunto abierto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Sources/src.Conjunto abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Sources/src.Conjunto abierto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Relación.md"
+                "file": "Sources/src.Conjunto abierto.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
+    "Sources/src.Escalar matematica.md",
+    "Sources/src.Conjunto abierto.md",
+    "Sources/src.Notas de la clase de Lorelí.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.SQL con clase.md",
+    "Sources/src.Lenguaje de control de datos.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Data Bases/Relación.md",
     "Annexes/img/img.Relacion.png",
     "Data Bases/SQL.md",
-    "Data Bases/Relación.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Principio de la información.md",
@@ -167,13 +174,7 @@
     "Data Bases/Base de datos.md",
     "Data Bases/SQL dinámico.md",
     "Data Bases/SQL dinámico 1.md",
-    "Sources/src.Lenguaje de control de datos.md",
-    "Sources/src.Escalar matematica.md",
     "Relational Data Bases syllabus.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Notas de la clase de Lorelí.md",
-    "Sources/src.SQL con clase.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths",
     "my_it_notebook",

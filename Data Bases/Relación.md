@@ -5,16 +5,17 @@ tags:
 ---
 # Estructura
 ![[img.Relacion.png]]
+## Términos y equivalencias
 
-| Termino relacional formal | Equivalente informal |
-| ------------------------- | -------------------- |
-| Relación                  |                      |
-| Tupla                     |                      |
-| Cardinalidad              |                      |
-| Atributo                  |                      |
-| Grado                     |                      |
-| Clave primaria            |                      |
-| Dominio                   |                      |
+| **Termino relacional formal** | **Equivalente informal**    |
+| ----------------------------- | --------------------------- |
+| Relación                      | Tabla                       |
+| Tupla                         | Fila o registro             |
+| Cardinalidad                  | Número de filas             |
+| Atributo                      | Columna o campo             |
+| Grado                         | Número de columnas          |
+| Clave primaria                | Identificador único         |
+| Dominio                       | Conjunto de valores válidos |
 
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
