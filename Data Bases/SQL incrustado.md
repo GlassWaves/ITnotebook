@@ -102,4 +102,5 @@ EXEC SQL EXECUTE SQLPREPARADO;
 
 - `SQLFUENTE` : Variable `PL/I`, almacena la instrucción SQL
 - `SQLPREPARADO` : Variable `SQL`, almacena de manera compilada la instrucción de `SQLFUENTE`
-- `PREPARE` 
+- `PREPARE` : Compila la instrucción de `SQLFUENTE`
+- `EXECUTE` : Ejecuta `SQLPREPARADO`

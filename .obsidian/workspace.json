@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL incrustado.md",
+                "file": "Data Bases/Sistema relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL incrustado.md",
+                "file": "Data Bases/Sistema relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL incrustado.md",
+                "file": "Data Bases/Sistema relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL incrustado.md"
+                "file": "Data Bases/Sistema relacional.md"
               }
             }
           }
@@ -160,27 +160,27 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
-    "Data Bases/SQL.md",
-    "Data Bases/SQL incrustado.md",
-    "Data Bases/SQL dinámico.md",
-    "Data Bases/SQL dinámico 1.md",
-    "Data Bases/Transaction control language.md",
-    "Data Bases/Base de datos.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Data control language.md",
-    "Data Bases/Catálogo.md",
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Esquema de información.md",
-    "Data Bases/Data manipulation Language.md",
-    "Data Bases/Data definition language.md",
-    "Sources/src.Lenguaje de control de datos.md",
     "Data Bases/Relación.md",
-    "Sources/src.Escalar matematica.md",
-    "Relational Data Bases syllabus.md",
-    "Data Bases/Varrels.md",
-    "Data Bases/Transacción.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Data manipulation Language.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Data definition language.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Transaction control language.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/SQL.md",
+    "Data Bases/Sistema relacional.md",
+    "Data Bases/Esquema de información.md",
+    "Data Bases/Catálogo.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/SQL dinámico.md",
+    "Data Bases/SQL dinámico 1.md",
+    "Sources/src.Lenguaje de control de datos.md",
+    "Sources/src.Escalar matematica.md",
+    "Relational Data Bases syllabus.md",
     "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Notas de la clase de Lorelí.md",
