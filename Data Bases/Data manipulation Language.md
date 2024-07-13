@@ -2,6 +2,7 @@
 tags:
   - Notes
   - RDB
+  - DB
 aliases:
   - DML
 ---

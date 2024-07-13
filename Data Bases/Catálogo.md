@@ -2,6 +2,7 @@
 tags:
   - Notes
   - RDB
+  - DB
 ---
 >Conjunto de [[Varrels]] del sistema que contienen descriptores de los diversos elementos que son de interés para el sistema
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79

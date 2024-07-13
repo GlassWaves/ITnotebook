@@ -2,6 +2,7 @@
 tags:
   - Notes
   - RDB
+  - DB
 ---
 Instrucciones SQL que pueden estar entremezcladas con las instrucciones del lenguaje de programación de una aplicación [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p89
 

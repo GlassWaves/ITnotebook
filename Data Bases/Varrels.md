@@ -2,6 +2,7 @@
 tags:
   - Notes
   - "#RDB"
+  - DB
 aliases:
   - Variables de relación
 ---
@@ -26,7 +27,7 @@ Si eliminamos la fila 4 entonces ahora `Empleado` tiene un valor de tres filas:
 | 3          | Smith  | 4              | 30000   |
 
 > De manera conceptual, lo que sucedió aquí es que el valor de relación anterior de `Empleado` fue remplazado en bloque por un valor de relación completamente nuevo
-> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]]
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p64
 
 ```TutorialD
 Empleado := Empleado MINUS (Empleado WHERE idEmpleado = 4) 

@@ -2,6 +2,7 @@
 tags:
   - Notes
   - RDB
+  - DB
 ---
 # Sub lenguajes
 - [[Data definition language|DDL]]
