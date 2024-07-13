@@ -53,5 +53,4 @@ status : CHAR
 ciudad : CHAR}
 ```
 
-sus atributos son del `tipo escalar` por que los tipos están `predefinidos por el sistema`. 
-
+sus atributos son del `tipo escalar` por que los tipos están `predefinidos por el sistema`.
