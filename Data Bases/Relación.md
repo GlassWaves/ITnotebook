@@ -16,6 +16,11 @@ tags:
 | Grado                         | Número de columnas          |
 | Clave primaria                | Identificador único         |
 | Dominio                       | Conjunto de valores válidos |
+## Dominio
+Es un `tipo de dato` definido por el sistema o por el usuario
+
+## Tipo de dato
+Conjunto de valores 
 
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
@@ -28,6 +33,7 @@ tags:
 >Los `tipos` y las `relaciones` son necesarios y suficientes para representar cualquier dato que queramos (esto es, al nivel lógico)
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 
+# Encabezado y cuerpo
 > Dada una relación `r` , el encabezado de `r` denota un cierto `predicado` o `función valuada` como `verdadera`
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
 
