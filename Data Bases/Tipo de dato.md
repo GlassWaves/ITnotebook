@@ -17,6 +17,9 @@ Este conjunto de valores a su vez tiene `operadores` definidos exclusivamente pa
 Siendo `P` la relación `Partes` y `VP` de `Envío` tenemos que :
 
 `P.Peso + VP.Cantidad`
-No tiene sentido por que a pesar de tener la misma`representació fisica` (numérica), es ilógico sumar el peso de un tornillo con la cantidad de tornillos del envió
+No tiene sentido por que a pesar de tener la misma`representació fisica` (numérica), es ilógico sumar el peso de un tornillo con la cantidad de tornillos del envío
 
-`P.Peso * VP.Cantidad` : 
+`P.Peso * VP.Cantidad`
+Tiene sentido por que se esta calculando el peso de un envío
+
+Y de hecho, esta comprobación de operandos tiene que ver con el [[Modelado semántico]]
