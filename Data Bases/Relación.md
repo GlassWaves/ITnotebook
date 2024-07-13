@@ -4,6 +4,7 @@ tags:
   - RDB
   - DB
 ---
+>Conjunto de `n` tipos o dominio s $Ti(i=1,2...n)$ que no son necesariamente todos distintos, `r` es una 
 # Estructura
 ![[img.Relacion.png]]
 Diagrama recuperado de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p111

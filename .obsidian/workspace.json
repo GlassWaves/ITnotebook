@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Tipo de dato.md",
+                "file": "Data Bases/Relación.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Data Bases/Valores de relación.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Tipo de dato.md",
+                "file": "Data Bases/Relación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Tipo de dato.md",
+                "file": "Data Bases/Relación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Tipo de dato.md"
+                "file": "Data Bases/Relación.md"
               }
             }
           }
@@ -160,25 +160,26 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
-    "Data Bases/Relación.md",
-    "Data Bases/Tipo de dato.md",
-    "Modelado semántico.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Data definition language.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Untitled.canvas",
     "Data Bases/Varrels.md",
-    "Data Bases/Transaction control language.md",
-    "Data Bases/Transacción.md",
+    "Data Bases/Valores de relación.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Catálogo.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Data definition language.md",
     "Data Bases/Data manipulation Language.md",
-    "Data Bases/SQL incrustado.md",
-    "Data Bases/SQL.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Esquema de información.md",
+    "Data Bases/Relación.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Principio de la información.md",
-    "Data Bases/Esquema de información.md",
-    "Data Bases/Data control language.md",
-    "Data Bases/Catálogo.md",
-    "Data Bases/Base de datos.md",
+    "Data Bases/SQL.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/Tipo de dato.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Transaction control language.md",
+    "Modelado semántico.md",
+    "Untitled.canvas",
     "Sources/src.Conjunto abierto.md",
     "Sources/src.SQL con clase.md",
     "Sources/src.Escalar matematica.md",
@@ -187,7 +188,6 @@
     "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Sources/src.Notas de la clase de Lorelí.md",
     "Annexes/img/img.Relacion.png",
-    "Data Bases/SQL dinámico.md",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths",
     "my_it_notebook",
