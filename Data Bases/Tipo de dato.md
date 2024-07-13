@@ -14,4 +14,9 @@ Este conjunto de valores a su vez tiene `operadores` definidos exclusivamente pa
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p113
 
 ## Ejemplo
-$$
+Siendo `P` la relación `Partes` y `VP` de `Envío` tenemos que :
+
+`P.Peso + VP.Cantidad`
+No tiene sentido por que a pesar de tener la misma`representació fisica` (numérica), es ilógico sumar el peso de un tornillo con la cantidad de tornillos del envió
+
+`P.Peso * VP.Cantidad` : 
