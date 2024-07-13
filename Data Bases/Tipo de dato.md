@@ -40,7 +40,7 @@ status : status,
 ciudad : ciudad}
 ```
 
-sus atributos son del `tipo no escalar` por que los `tipos` están definidos por el usuario.
+sus atributos son del `tipo no escalar` por que los tipos están `definidos por el usuario`
 # Escalar
 >Son aquellos que no tienen componentes visibles para el usuario
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p115
@@ -53,4 +53,5 @@ status : CHAR
 ciudad : CHAR}
 ```
 
-susatribut
+sus atributos son del `tipo escalar` por que los tipos están `definidos por el sistema `
+
