@@ -11,12 +11,8 @@
             "id": "c3c44de21df54c91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/src.Conjunto abierto.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/src.Conjunto abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/src.Conjunto abierto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sources/src.Conjunto abierto.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,13 @@
   },
   "active": "c3c44de21df54c91",
   "lastOpenFiles": [
-    "Sources/src.Escalar matematica.md",
-    "Sources/src.Conjunto abierto.md",
-    "Sources/src.Notas de la clase de Lorelí.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Sources/src.SQL con clase.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.Notas de la clase de Lorelí.md",
     "Sources/src.Lenguaje de control de datos.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/src.Escalar matematica.md",
+    "Sources/src.Conjunto abierto.md",
     "Data Bases/Relación.md",
     "Annexes/img/img.Relacion.png",
     "Data Bases/SQL.md",
