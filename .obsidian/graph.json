@@ -1,37 +1,37 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Notes  ",
+  "search": "tag:#Notes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Data Bases\"  ",
+      "query": "tag:#DB  ",
       "color": {
         "a": 1,
-        "rgb": 6069206
+        "rgb": 6070742
       }
     },
     {
-      "query": "path:Maths  ",
+      "query": "tag:#Math  ",
       "color": {
         "a": 1,
-        "rgb": 14107202
+        "rgb": 13978957
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.495841995841996,
+  "repelStrength": 10.997920997921,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792608,
+  "scale": 0.7132754626224497,
   "close": false
 }
