@@ -32,4 +32,10 @@ Y de hecho, esta comprobación de operandos tiene que ver con el [[Modelado sem�
 > [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p115
 
 ## Ejemplo
-De la relación `Envio(idEnvio,proveedor,)`
+De la relación `Envio(idEnvio,proveedor,status,ciudad)` sus atributos son del `tipo no escalar`
+
+# Escalar
+>Son aquellos que no tienen componentes visibles para el usuario
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p115
+
+## Ejemplo
