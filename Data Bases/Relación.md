@@ -19,10 +19,10 @@ Diagrama recuperado de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. 
 | Dominio                       | Conjunto de valores válidos |
 Tabla recuperada de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
 ## Dominio
-Es un `tipo de dato` definido por el sistema (INTEGER, CHARACTER, etc.) o por el usuario (peso, cantidad, etc.)
+Es un `tipo de dato` definido por el sistema (`INTEGER`, `CHARACTER`, etc.) o por el usuario (`peso`, `cantidad`, etc.)
 Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
 ## Tipo de dato
-Conjunto de valores
+Conjunto de valores posibles del tipo
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
 > - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
