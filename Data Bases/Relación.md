@@ -4,7 +4,17 @@ tags:
   - RDB
 ---
 # Estructura
+![[img.Relacion.png]]
 
+| Termino relacional formal | Equivalente informal |
+| ------------------------- | -------------------- |
+| Relación                  |                      |
+| Tupla                     |                      |
+| Cardinalidad              |                      |
+| Atributo                  |                      |
+| Grado                     |                      |
+| Clave primaria            |                      |
+| Dominio                   |                      |
 
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
