@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Dominio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Data Bases/Dominio.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Data Bases/Relación.md",
-    "Data Bases/SQL.md",
-    "Data Bases/Dominio.md",
-    "Data Bases/Varrels.md",
     "Data Bases/Tipo de dato.md",
+    "Data Bases/Dominio.md",
+    "Data Bases/Esquema de información.md",
+    "Data Bases/Data manipulation Language.md",
+    "Data Bases/Data definition language.md",
+    "Data Bases/SQL.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Varrels.md",
     "Data Bases/Modelado semántico.md",
     "Programming/Clase objeto.md",
     "Programming",
@@ -162,10 +165,7 @@
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Data control language.md",
-    "Data Bases/Data definition language.md",
-    "Data Bases/Data manipulation Language.md",
     "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Esquema de información.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/SQL incrustado.md",
