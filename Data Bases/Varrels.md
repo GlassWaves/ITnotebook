@@ -61,7 +61,7 @@ SELECT * FROM EmpleadoConDepartamento;
 ### Vista
 Su valor es el resultado de evaluar cierta expresión relacional en ese momento; esta expresión se especifica en el momento en que se crea la vista
 
-```TutorialD
+```SQL
 CREATE VIEW EMPSUP AD
 	(EMP) WHERE SALARIO > 33K {EMP#,NOMEMP,SALARIO};
 ```

@@ -33,6 +33,10 @@ ciudad : ciudad }
 
 El valor de $m$ es la `cardinalidad`
 
+
+> [!NOTE] Las tuplas no son variables
+> Cuando un tupla es "actualizada", nos referimos a que el valor de la tupla $t$ es remplazadao por otra tupla $t'$
+
 ## Definición informal
 >Conjunto de filas que se apegan al encabezado
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
