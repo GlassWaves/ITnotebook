@@ -22,7 +22,7 @@ tags:
 # Conceptos que no aplica
 SQL no aplica ciertos conceptos del [[Modelo relacional de datos]]
 
-- Relación : En su lugar utiliza el concepto `tabla`
-- Varrel : En su lugar utiliza el concepto `tabla`
-- Encabezado
-- Cuerpo
+- Relación
+	- Ya que no cumple con las primeras tres [[Relación#Propiedades|propiedades]] de una relación
+- Tipos
+	- El usuario no puede crear dominios (que no este formados por un solo dominio integrado), no puedes asignar operadores a los mismos
