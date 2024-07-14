@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💻",
       "🥯",
       "💡",
       "📕",
-      "🖼",
-      "🔗"
+      "🖼"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Annexes/pdf": "📕",
   "Ideas.md": "💡",
   "Maths": "🥯",
-  "Data Bases": "💾"
+  "Data Bases": "💾",
+  "Programming": "💻"
 }

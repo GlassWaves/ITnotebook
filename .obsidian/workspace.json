@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Tipo de dato.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Relación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Data Bases/Relación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Data Bases/Relación.md"
               }
             }
           }
@@ -171,14 +170,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "e5b04bbe0242c10d",
+  "active": "c3c44de21df54c91",
   "lastOpenFiles": [
-    "Data Bases/Varrels.md",
+    "Data Bases/Modelado semántico.md",
+    "Programming/Clase objeto.md",
+    "Programming",
     "Data Bases/Relación.md",
+    "Data Bases/Tipo de dato.md",
+    "Data Bases/Varrels.md",
     "Data Bases/SQL.md",
     "Data Bases/Valores de relación.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Data Bases/Tipo de dato.md",
     "Data Bases/Base de datos.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Catálogo.md",
@@ -192,14 +194,11 @@
     "Data Bases/SQL incrustado.md",
     "Data Bases/Transacción.md",
     "Data Bases/Transaction control language.md",
-    "Modelado semántico.md",
     "Untitled.canvas",
     "Sources/src.Conjunto abierto.md",
     "Sources/src.SQL con clase.md",
     "Sources/src.Escalar matematica.md",
     "Sources/src.Lenguaje de control de datos.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
-    "Sources/src.Notas de la clase de Lorelí.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths",
@@ -211,7 +210,6 @@
     "Annexes/img",
     "Annexes/Img",
     "Annexes",
-    "Algorithms",
-    "Machines"
+    "Algorithms"
   ]
 }
