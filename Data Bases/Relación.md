@@ -13,6 +13,13 @@ tags:
 
 El valor de $n$ es el `grado`, $n$ es cualquier entero no negativo
 
+> [!NOTE] Atributos del tipo relación
+> Las relaciones pueden tener atributos cuyos valores sean a su vez relaciones
+
+## Definición informal
+>Conjunto de parejas `nombre_de_columna : nombre_de_tipo`
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
+
 ## Ejemplo de encabezado
 ``` 
 { idProveedor : idProveedor
@@ -25,6 +32,10 @@ ciudad : ciudad }
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p123
 
 El valor de $m$ es la `cardinalidad`
+
+## Definición informal
+>Conjunto de filas que se apegan al encabezado
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 ## Ejemplo de tupla
 ```
 { idProveedor : idProveedor('V1'),
@@ -74,13 +85,6 @@ Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
 
 >Cada fila en el cuerpo de `r` denota una cierta `proposición verdadera`, obtenida del `predicado` por medio de la sustitución de ciertos valores de argumento
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p66
-
-# Elementos
-| Elemento   | Descripción                                          |
-| ---------- | ---------------------------------------------------- |
-| Encabezado | Conjunto de parejas nombre_de_columna:nombre_de_tipo |
-| Cuerpo     | Conjunto de filas que se apegan al encabezado        |
-Definiciones obtenidas de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p79
 ## Interpretación semántica
 Por ejemplo de la relación `Empleado`:
 
@@ -90,7 +94,6 @@ Por ejemplo de la relación `Empleado`:
 | 2          | Cheng    | 2              | 42000   |
 | 3          | Smith    | 4              | 30000   |
 | 4          | Vladimir | 4              | 15000   |
-
 ### Predicado
 El empleado `idEmpleado` se llama `nombre`, trabaja en el departamento `idDepartamento` y gana un salario de `salario`
 
@@ -105,4 +108,5 @@ El empleado `1` se llama `Lopez`, trabaja en el departamento `idDepartamento` y 
 
 # Tabla y relación
 >Una `relación` es lo que la definición dice que es (es decir, una clase de objeto mas bien abstracto) y una `tabla` es una imagen concreta (generalmente sobre papel) de dicho objeto abstracto
->
+>[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p125
+
