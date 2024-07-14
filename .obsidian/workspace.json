@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Dominio.md",
+                "file": "Data Bases/Álgebra relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Dominio.md",
+                "file": "Data Bases/Álgebra relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Dominio.md",
+                "file": "Data Bases/Álgebra relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Dominio.md"
+                "file": "Data Bases/Álgebra relacional.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Data Bases/Tipo de dato.md",
     "Data Bases/Dominio.md",
+    "Data Bases/Álgebra relacional.md",
+    "Untitled",
+    "Practice",
+    "Data Bases/Tipo de dato.md",
     "Data Bases/Esquema de información.md",
     "Data Bases/Data manipulation Language.md",
     "Data Bases/Data definition language.md",
@@ -175,7 +178,6 @@
     "Sources/src.Conjunto abierto.md",
     "Sources/src.SQL con clase.md",
     "Sources/src.Escalar matematica.md",
-    "Sources/src.Lenguaje de control de datos.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Maths",
@@ -185,8 +187,6 @@
     "Relational Data Bases/Notes",
     "Annexes/pdf",
     "Annexes/img",
-    "Annexes/Img",
-    "Annexes",
-    "Algorithms"
+    "Annexes/Img"
   ]
 }
