@@ -13,7 +13,7 @@ tags:
 
 El valor de $n$ es el `grado`, $n$ es cualquier entero no negativo
 
-## Ejemplo
+## Ejemplo de encabezado
 ``` 
 { idProveedor : idProveedor
 proveedor : nombre
@@ -25,8 +25,7 @@ ciudad : ciudad }
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p123
 
 El valor de $m$ es la `cardinalidad`
-
-## Ejemplo
+## Ejemplo de tupla
 ```
 { idProveedor : idProveedor('V1'),
 proveedor : nombre('Smith'),
@@ -52,6 +51,12 @@ Tabla recuperada de [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Dat
 ## Dominio
 Es un [[Tipo de dato]] definido por el sistema (`INTEGER`, `CHARACTER`, etc.) o por el usuario (`peso`, `cantidad`, etc.)
 Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
+
+# Propiedades
+- No existen tuplas duplicadas
+- Las tuplas estan en desorden, de arriba hacia aabajo
+- Los atributos estan en desordenm de izquierda a derecha
+- Cada tupla contiene
 
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
