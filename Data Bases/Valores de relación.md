@@ -1,6 +1,0 @@
----
-tags:
-  - Notes
-  - RDB
-  - DB
----

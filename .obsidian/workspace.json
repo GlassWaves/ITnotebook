@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Valores de relación.md",
+                "file": "Data Bases/Varrels.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Data Bases/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Data Bases/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Relación.md",
+                "file": "Data Bases/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Relación.md"
+                "file": "Data Bases/SQL.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   "lastOpenFiles": [
     "Data Bases/Varrels.md",
     "Data Bases/Relación.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Data Bases/SQL.md",
     "Data Bases/Valores de relación.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Data Bases/Tipo de dato.md",
     "Data Bases/Base de datos.md",
     "Data Bases/Base de datos Relacional.md",
@@ -188,7 +189,6 @@
     "Data Bases/Esquema de información.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Principio de la información.md",
-    "Data Bases/SQL.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Transacción.md",
     "Data Bases/Transaction control language.md",

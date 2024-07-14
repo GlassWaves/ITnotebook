@@ -35,7 +35,8 @@ El valor de $m$ es la `cardinalidad`
 
 
 > [!NOTE] Las tuplas no son variables
-> Cuando un tupla es "actualizada", nos referimos a que el valor de la tupla $t$ es remplazadao por otra tupla $t'$
+> Cuando un tupla es "actualizada", nos referimos a que el valor de la tupla $t$ es remplazada por otra tupla $t'$ y no a la asignación de valores a la vartupla $t$ (la cual no existe). 
+> [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p133
 
 ## Definición informal
 >Conjunto de filas que se apegan al encabezado
