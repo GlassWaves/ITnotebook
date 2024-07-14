@@ -54,10 +54,9 @@ Basado en [[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p112
 
 # Propiedades
 - No existen tuplas duplicadas
-- Las tuplas estan en desorden, de arriba hacia aabajo
-- Los atributos estan en desordenm de izquierda a derecha
-- Cada tupla contiene
-
+- Las tuplas estan en desorden, de arriba hacia abajo
+- Los atributos están en desorden de izquierda a derecha
+- Cada tupla contiene exactamente un valor para cada atributo
 # Tipos y relaciones
 > - Los `tipos` son (conjuntos de) cosas de las que podemos hablar
 > - Las `relaciones` son (conjuntos de) cosas que decimos acerca de las cosas de las que podemos hablar
@@ -104,3 +103,6 @@ Parámetros :
 ### Proposición verdadera
 El empleado `1` se llama `Lopez`, trabaja en el departamento `idDepartamento` y gana un salario de `40000`
 
+# Tabla y relación
+>Una `relación` es lo que la definición dice que es (es decir, una clase de objeto mas bien abstracto) y una `tabla` es una imagen concreta (generalmente sobre papel) de dicho objeto abstracto
+>
