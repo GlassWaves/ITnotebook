@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Base de datos.md",
+                "file": "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Base de datos.md",
+                "file": "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Base de datos.md",
+                "file": "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Base de datos.md"
+                "file": "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Data Bases/Dominio.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Tipo de dato.md",
-    "Data Bases/Transacción.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
-    "Sources/src.Conjunto abierto.md",
     "Sources/src.Escalar matematica.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Lenguaje de control de datos.md",
-    "Relational Data Bases syllabus.md",
-    "Data Bases/Álgebra relacional.md",
-    "Untitled",
-    "Practice",
+    "Sources/src.Conjunto abierto.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Esquema de información.md",
+    "Data Bases/Dominio.md",
     "Data Bases/Data manipulation Language.md",
     "Data Bases/Data definition language.md",
-    "Data Bases/SQL.md",
-    "Data Bases/Relación.md",
-    "Data Bases/Varrels.md",
-    "Data Bases/Modelado semántico.md",
-    "Programming/Clase objeto.md",
-    "Programming",
-    "Data Bases/Valores de relación.md",
-    "Data Bases/Base de datos.md",
-    "Data Bases/Base de datos Relacional.md",
     "Data Bases/Catálogo.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Álgebra relacional.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/Modelado semántico.md",
     "Data Bases/Data control language.md",
-    "Data Bases/Sistema relacional.md",
+    "Maths/Escalar.md",
+    "Maths/Conjunto abierto.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Transaction control language.md",
+    "Data Bases/Tipo de dato.md",
+    "Data Bases/SQL.md",
     "Data Bases/Principio de la información.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Sources/src.Lenguaje de control de datos.md",
+    "Untitled",
+    "Practice",
+    "Programming",
     "Untitled.canvas",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
