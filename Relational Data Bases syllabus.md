@@ -140,7 +140,7 @@ Base de datos de objetos
 Base de datos objetos/relacionales
 Expresiones SQL
 
-# Repaso cabrón
+# Repaso
 Consistencia
 Integridad
 Sistema de Base de datos
