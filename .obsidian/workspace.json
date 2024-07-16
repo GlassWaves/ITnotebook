@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/src.Lenguaje de control de datos.md",
+                "file": "Sources/src.Artefactos de scrum agil.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/src.Lenguaje de control de datos.md",
+                "file": "Sources/src.Artefactos de scrum agil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/src.Lenguaje de control de datos.md",
+                "file": "Sources/src.Artefactos de scrum agil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/src.Lenguaje de control de datos.md"
+                "file": "Sources/src.Artefactos de scrum agil.md"
               }
             }
           }
@@ -148,19 +148,19 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.Conjunto abierto.md",
+    "Sources/src.Escalar matematica.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Lenguaje de control de datos.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.Artefactos de scrum agil.md",
     "Data Bases/Data manipulation Language.md",
     "Data Bases/Dominio.md",
     "Data Bases/Data definition language.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Base de datos.md",
-    "Sources/src.Artefactos de scrum agil.md",
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
-    "Sources/src.Conjunto abierto.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Sources/src.Escalar matematica.md",
     "Project Management/Artefactos.md",
     "Sistema de tickets.md",
     "Project Management",
