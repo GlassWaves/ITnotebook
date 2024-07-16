@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/src.Artefactos de scrum agil.md",
+                "file": "Maths/Escalar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/src.Artefactos de scrum agil.md",
+                "file": "Maths/Escalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/src.Artefactos de scrum agil.md",
+                "file": "Maths/Escalar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/src.Artefactos de scrum agil.md"
+                "file": "Maths/Escalar.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Project Management/Artefactos.md",
-    "Sources/src.Artefactos de scrum agil.md",
-    "Sistema de tickets.md",
+    "Maths/Conjunto abierto.md",
+    "Sources/src.Lenguaje de control de datos.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Project Management",
     "Sources/src.Escalar matematica.md",
     "Sources/src.Conjunto abierto.md",
+    "Sources/src.Artefactos de scrum agil.md",
+    "Project Management/Artefactos.md",
+    "Sistema de tickets.md",
+    "Project Management",
     "Data Bases/Transacción.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Relación.md",
@@ -170,11 +172,9 @@
     "Data Bases/Modelado semántico.md",
     "Data Bases/Data control language.md",
     "Maths/Escalar.md",
-    "Maths/Conjunto abierto.md",
     "Data Bases/Varrels.md",
     "Data Bases/Transaction control language.md",
     "Data Bases/Tipo de dato.md",
-    "Data Bases/SQL.md",
     "Practice",
     "Programming",
     "Untitled.canvas",
