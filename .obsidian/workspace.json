@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Data manipulation Language.md",
+                "file": "Sources/src.Lenguaje de control de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Data manipulation Language.md",
+                "file": "Sources/src.Lenguaje de control de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Data manipulation Language.md",
+                "file": "Sources/src.Lenguaje de control de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Data manipulation Language.md"
+                "file": "Sources/src.Lenguaje de control de datos.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
+    "Sources/src.Lenguaje de control de datos.md",
+    "Data Bases/Data manipulation Language.md",
     "Data Bases/Dominio.md",
     "Data Bases/Data definition language.md",
     "Data Bases/Base de datos Relacional.md",
@@ -156,7 +159,6 @@
     "Maths/Escalar.md",
     "Maths/Conjunto abierto.md",
     "Sources/src.Conjunto abierto.md",
-    "Sources/src.Lenguaje de control de datos.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Escalar matematica.md",
     "Project Management/Artefactos.md",
@@ -167,14 +169,12 @@
     "Data Bases/Relación.md",
     "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Esquema de información.md",
-    "Data Bases/Data manipulation Language.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Álgebra relacional.md",
     "Data Bases/Modelado semántico.md",
     "Data Bases/Data control language.md",
     "Data Bases/Varrels.md",
     "Data Bases/Transaction control language.md",
-    "Data Bases/Tipo de dato.md",
     "Practice",
     "Programming",
     "Untitled.canvas",
