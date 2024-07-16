@@ -6,13 +6,13 @@ sin embargo tiene algunos ligeros cambios en la sintaxis que impiden leer al 100
 este `vault`, lo leas mediante el editor de `Obsidian` con los correspondientes `plugins` habilitados.
 
 # Tabla de contenido
-- <a name ="Estructura"></a>#Estructura
-- [Tipos de notas](Estructura)
-  - [Notes](Notes)
-  - [Sources](Sources)
-- [Directorios especiales](Directorios especiales)
-  - [Annexes](Annexes)
-  - [Templates](Templates)
+- [Estructura](#estructura)
+- [Tipos de notas](#tipos-de-notas)
+  - [Notes](#notes)
+  - [Sources](#sources)
+- [Directorios especiales](#directorios-especiales)
+  - [Annexes](#annexes)
+  - [Templates](#templates)
 
 # Estructura
 El cuaderno esta estructurado mediante notas atomicas agrupadas bajo temas genericos (directorio/tag), por ejemplo : 
