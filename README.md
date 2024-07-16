@@ -6,13 +6,13 @@ sin embargo tiene algunos ligeros cambios en la sintaxis que impiden leer al 100
 este `vault`, lo leas mediante el editor de `Obsidian` con los correspondientes `plugins` habilitados.
 
 # Tabla de contenido
-- [Estructura](READNE.md#Estructura)
-- Tipos de notas
-  - Notes
-  - Sources
-- Directorios especiales
-  - Annexes
-  - Templates
+- <a name ="Estructura"></a>#Estructura
+- [Tipos de notas](Estructura)
+  - [Notes](Notes)
+  - [Sources](Sources)
+- [Directorios especiales](Directorios especiales)
+  - [Annexes](Annexes)
+  - [Templates](Templates)
 
 # Estructura
 El cuaderno esta estructurado mediante notas atomicas agrupadas bajo temas genericos (directorio/tag), por ejemplo : 
