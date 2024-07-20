@@ -1,5 +1,5 @@
 # ¡Hola!
-Este cuaderno registra temas de IT que investigo en mis ratos libres :D
+Este cuaderno registra temas de TI que investigo en mis ratos libres :D
 
 Está construido con la tecnología de [obsidian](https://obsidian.md/), la cual utiliza el lenguaje de marcado [markdown](https://es.wikipedia.org/wiki/Markdown). Sin embargo, tiene algunos ligeros cambios en la sintaxis que impiden leer al 100% el documento en Markdown simple, por lo que es recomendable que, al descargar este `vault`, lo leas mediante el editor de `Obsidian` con los correspondientes `plugins` habilitados.
 
