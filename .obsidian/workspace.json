@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
+                "file": "Programming/Clase objeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
+                "file": "Programming/Clase objeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
+                "file": "Programming/Clase objeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md"
+                "file": "Programming/Clase objeto.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "83fc2143835e9bac",
+  "active": "31ee7b5a7f587755",
   "lastOpenFiles": [
-    "Sources/src.Principios del Manifiesto Agil.md",
-    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
-    "Sources/src.Manifiesto por el Desarrollo Agil de Software.md",
-    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
-    "Data Bases/Álgebra relacional.md",
-    "Data Bases/Base de datos.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Catálogo.md",
-    "Data Bases/Data control language.md",
-    "Data Bases/Data definition language.md",
-    "Data Bases/Dominio.md",
-    "Data Bases/Data manipulation Language.md",
-    "Data Bases/SQL incrustado.md",
-    "Data Bases/Tipo de dato.md",
-    "Data Bases/SQL.md",
+    "Relational Data Bases syllabus.md",
     "Data Bases/Sistema relacional.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Transaction control language.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Tipo de dato.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/SQL.md",
     "Data Bases/Relación.md",
     "Data Bases/Principio de la información.md",
     "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Modelado semántico.md",
-    "Data Bases/Transaction control language.md",
-    "Data Bases/Transacción.md",
-    "Data Bases/Varrels.md",
+    "Data Bases/Esquema de información.md",
+    "Data Bases/Dominio.md",
+    "Data Bases/Data manipulation Language.md",
+    "Data Bases/Data definition language.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Catálogo.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/Álgebra relacional.md",
+    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
     "Project Management/Artefactos.md",
-    "Sources/src.Artefactos de scrum agil.md",
-    "README.md",
+    "Programming/Clase objeto.md",
+    "Sources/src.Principios del Manifiesto Agil.md",
+    "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Annexes/img/img.Artefactos.png",
     "Project Management",
     "Practice",
