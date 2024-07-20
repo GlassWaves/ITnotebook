@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Artefactos.md"
+                "file": "Project Management/Manifiesto por el Desarrollo Ágil de Software.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
+    "Data Bases/Tipo de dato.md",
+    "Data Bases/SQL incrustado.md",
+    "Data Bases/SQL.md",
+    "Data Bases/Sistema relacional.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Principio de la información.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Modelado semántico.md",
+    "Data Bases/Transaction control language.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Dominio.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/Álgebra relacional.md",
+    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
+    "Project Management/Artefactos.md",
+    "Sources/src.Manifiesto por el Desarrollo Agil de Software.md",
+    "Sources/src.Artefactos de scrum agil.md",
     "README.md",
     "Annexes/img/img.Artefactos.png",
     "Sources/src.Conjunto abierto.md",
-    "Sources/src.Artefactos de scrum agil.md",
-    "Project Management/Artefactos.md",
     "Programming/Clase objeto.md",
     "Sources/src.Qué son DDL, DML, DQL y DCL en SQL.md",
     "Sources/src.Lenguaje de control de datos.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Sources/src.Escalar matematica.md",
-    "Data Bases/Data manipulation Language.md",
-    "Data Bases/Dominio.md",
-    "Data Bases/Data definition language.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Base de datos.md",
-    "Maths/Escalar.md",
-    "Maths/Conjunto abierto.md",
-    "Sistema de tickets.md",
     "Project Management",
-    "Data Bases/Transacción.md",
-    "Data Bases/SQL incrustado.md",
-    "Data Bases/Relación.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Data Bases/Esquema de información.md",
-    "Data Bases/Catálogo.md",
-    "Data Bases/Álgebra relacional.md",
-    "Data Bases/Modelado semántico.md",
-    "Data Bases/Data control language.md",
     "Practice",
     "Programming",
     "Untitled.canvas",
