@@ -23,7 +23,7 @@ Notas simples cuyo contenido sigue el `principio de atomicidad`, el cual a grand
 - `tags`: Son los tags que identifican la temática de la nota.
   - Por defecto tienen los tags #Notes, #TemaGenerico, sin embargo, se les puede complementar con algún tag extra.
 - *`aliases`: A veces las notas tienen aliases (no todas tienen).
-  - Ejemplo: el título de la nota es World Wide Web, pero su alias es WWW.
+  - Ejemplo: el título de la nota es "World Wide Web", pero su alias es "WWW".
 
 ## Sources
 Estas notas registran las fuentes que son utilizadas en las `Notes`. Las notas deben ser tituladas con la siguiente estructura:
