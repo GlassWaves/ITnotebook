@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/Sistema relacional.md",
+                "file": "Data Bases/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/Sistema relacional.md"
+                "file": "Data Bases/SQL.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Data Bases/SQL.md",
+    "Project Management/Artefactos.md",
     "Data Bases/Sistema relacional.md",
+    "Data Bases/SQL.md",
     "Data Bases/Relación.md",
     "Data Bases/Álgebra relacional.md",
     "Data Bases/Base de datos.md",
@@ -176,7 +177,6 @@
     "Ideas.md",
     "Sistema de tickets.md",
     "Programming/Clase objeto.md",
-    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
     "Project Management",
     "Practice",
     "Programming",
