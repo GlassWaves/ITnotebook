@@ -11,8 +11,12 @@
             "id": "83fc2143835e9bac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Bases/Sistema relacional.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Bases/Sistema relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Bases/Sistema relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Bases/Sistema relacional.md"
+              }
             }
           }
         ]
@@ -141,8 +149,12 @@
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
     "Data Bases/SQL.md",
-    "Data Bases/Relación.md",
     "Data Bases/Sistema relacional.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Álgebra relacional.md",
+    "Data Bases/Base de datos.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Relational Data Bases syllabus.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Tipo de dato.md",
     "Data Bases/Transacción.md",
@@ -150,8 +162,6 @@
     "Data Bases/Varrels.md",
     "Data Bases/Data definition language.md",
     "Data Bases/Catálogo.md",
-    "Data Bases/Álgebra relacional.md",
-    "Data Bases/Base de datos.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data control language.md",
     "Data Bases/Data manipulation Language.md",
@@ -164,7 +174,6 @@
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
     "Ideas.md",
-    "Relational Data Bases syllabus.md",
     "Sistema de tickets.md",
     "Programming/Clase objeto.md",
     "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
