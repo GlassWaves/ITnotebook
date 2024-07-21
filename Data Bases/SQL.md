@@ -16,7 +16,7 @@ tags:
 # SQL + otros lenguajes
 - [[SQL incrustado]]
 # Dato interesante
->en el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
+>En el estándar de SQL ¡no existe el termino "base de datos"! La forma exacta en que se denomina al conjunto de datos que describe el catalogo, esta definida en la implementación. Sin embargo, es razonable pensar en dicho conjunto como en una base datos. 
 >[[src.Introduccion a Los Sistemas de Bases de Datos|C.J. Date]] - p87
 
 # Conceptos que no aplica
