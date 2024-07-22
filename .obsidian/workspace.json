@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas pendientes.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas pendientes.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas pendientes.md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas pendientes.md"
+                "file": "Ideas.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "5f976fd112c4de26",
   "lastOpenFiles": [
-    "Data Bases/SQL.md",
     "Notas pendientes.md",
+    "Data Bases/SQL.md",
     "Project Management/Artefactos.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Relación.md",

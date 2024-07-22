@@ -4,3 +4,4 @@
 - All PNG in a single PDF
 - Sistema para crear estados financieros
 - Proceso de contabilidad
+- Caja de sonidos : Cargas un sonido y se crea un boton que lo reproduce
