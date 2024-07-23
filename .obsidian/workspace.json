@@ -23,12 +23,8 @@
             "id": "5f976fd112c4de26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Management/Artefactos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Artefactos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Artefactos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Management/Artefactos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +151,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "31ee7b5a7f587755",
+  "active": "5f976fd112c4de26",
   "lastOpenFiles": [
+    "Data Bases/SQL.md",
     "Ideas.md",
     "Notas pendientes.md",
-    "Data Bases/SQL.md",
     "Project Management/Artefactos.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Relación.md",
