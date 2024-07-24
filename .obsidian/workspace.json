@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Data Bases/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Data Bases/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Artefactos.md",
+                "file": "Data Bases/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Artefactos.md"
+                "file": "Data Bases/SQL.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "5f976fd112c4de26",
   "lastOpenFiles": [
-    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
+    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/SQL.md",
+    "Data Bases/Data definition language.md",
+    "Project Management/Artefactos.md",
+    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
     "Ideas.md",
     "Notas pendientes.md",
-    "Project Management/Artefactos.md",
     "Data Bases/Sistema relacional.md",
     "Data Bases/Relación.md",
     "Data Bases/Álgebra relacional.md",
@@ -177,7 +179,6 @@
     "Data Bases/Transacción.md",
     "Data Bases/Transaction control language.md",
     "Data Bases/Varrels.md",
-    "Data Bases/Data definition language.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data control language.md",
@@ -185,7 +186,6 @@
     "Data Bases/Dominio.md",
     "Data Bases/Esquema de información.md",
     "Data Bases/Modelado semántico.md",
-    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Principio de la información.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
