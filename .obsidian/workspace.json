@@ -23,8 +23,12 @@
             "id": "5f976fd112c4de26",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project Management/Artefactos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Project Management/Artefactos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Project Management/Artefactos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Project Management/Artefactos.md"
               }
             }
           }
@@ -157,6 +161,7 @@
   },
   "active": "5f976fd112c4de26",
   "lastOpenFiles": [
+    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
     "Data Bases/SQL.md",
     "Ideas.md",
     "Notas pendientes.md",
@@ -185,7 +190,6 @@
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
-    "Sistema de tickets.md",
     "Project Management",
     "Practice",
     "Programming",
