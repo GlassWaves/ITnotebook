@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operative systems/Permisos en Linux.md",
+                "file": "Operative systems/Sistemas de paquetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operative systems/Permisos en Linux.md",
+                "file": "Operative systems/Sistemas de paquetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operative systems/Permisos en Linux.md",
+                "file": "Operative systems/Sistemas de paquetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operative systems/Permisos en Linux.md"
+                "file": "Operative systems/Sistemas de paquetes.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "5f976fd112c4de26",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20240731174110.png",
     "Operative systems/Permisos en Linux.md",
+    "Operative systems/Sistemas de paquetes.md",
+    "README.md",
     "Data Bases/SQL.md",
     "Operative systems",
     "Data Bases/Modelo relacional de datos.md",
@@ -186,8 +188,6 @@
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data control language.md",
     "Data Bases/Data manipulation Language.md",
-    "Data Bases/Dominio.md",
-    "Data Bases/Esquema de información.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
