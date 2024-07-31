@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Operative systems/Permisos en Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Operative systems/Permisos en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Operative systems/Permisos en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Operative systems/Permisos en Linux.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "5f976fd112c4de26",
   "lastOpenFiles": [
-    "Data Bases/Modelo relacional de datos.md",
+    "README.md",
+    "Operative systems/Permisos en Linux.md",
     "Data Bases/SQL.md",
+    "Operative systems",
+    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Data definition language.md",
     "Project Management/Artefactos.md",
     "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
@@ -185,8 +188,6 @@
     "Data Bases/Data manipulation Language.md",
     "Data Bases/Dominio.md",
     "Data Bases/Esquema de información.md",
-    "Data Bases/Modelado semántico.md",
-    "Data Bases/Principio de la información.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
@@ -200,7 +201,6 @@
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
     "Relational Data Bases/Notes",
     "Annexes/pdf",
-    "Annexes/img",
-    "Annexes/Img"
+    "Annexes/img"
   ]
 }

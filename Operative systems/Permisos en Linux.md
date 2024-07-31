@@ -1,0 +1,6 @@
+---
+tags:
+  - OperativeSystems
+  - Notes
+  - Linux
+---

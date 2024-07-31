@@ -21,7 +21,7 @@ Notas simples cuyo contenido sigue el `principio de atomicidad`, el cual a grand
 
 ### Propiedades
 - `tags`: Son los tags que identifican la temática de la nota.
-  - Por defecto tienen los tags #Notes, #TemaGenerico, sin embargo, se les puede complementar con algún tag extra.
+  - Por defecto tienen los tags #Notes, /#TemaGenerico, sin embargo, se les puede complementar con algún tag extra.
 - *`aliases`: A veces las notas tienen aliases (no todas tienen).
   - Ejemplo: el título de la nota es "World Wide Web", pero su alias es "WWW".
 
@@ -32,7 +32,7 @@ Estas notas registran las fuentes que son utilizadas en las `Notes`. Las notas d
 
 ### Propiedades
 - `tags`: Son los tags que identifican la temática de la fuente.
-  - Por defecto tienen los tags #Sources, #TemaGenerico, sin embargo, se les puede complementar con algún tag extra.
+  - Por defecto tienen los tags #Sources, /#TemaGenerico, sin embargo, se les puede complementar con algún tag extra.
 - `reference`: Archivo, link web, ISBN-13 o DOI de la fuente consultada.
 - `aliases`: Alias de las fuente.
   - Por defecto se debe de incluir al menos un alias, para evitar usar sus iniciales "src."
