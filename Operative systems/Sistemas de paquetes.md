@@ -11,3 +11,6 @@ GRUB
 Programa vs sistema
 FHS
 Directorios FHS
+Administrador de paquetes
+Repositorios
+DPKG
