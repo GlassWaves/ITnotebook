@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f976fd112c4de26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operative systems/Sistemas de paquetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operative systems/Sistemas de paquetes.md",
+                "file": "Data Bases/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operative systems/Sistemas de paquetes.md",
+                "file": "Data Bases/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operative systems/Sistemas de paquetes.md"
+                "file": "Data Bases/SQL.md"
               }
             }
           }
@@ -159,16 +146,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "5f976fd112c4de26",
+  "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Operative systems/Administradores de paquetes.md",
+    "Data Bases/Catálogo.md",
+    "Data Bases/Base de datos Relacional.md",
+    "Data Bases/Data manipulation Language.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
+    "Data Bases/Dominio.md",
+    "Data Bases/Base de datos.md",
     "Operative systems/Sistemas de paquetes.md",
-    "Pasted image 20240731174110.png",
     "Operative systems/Permisos en Linux.md",
+    "Operative systems/Administradores de paquetes.md",
+    "Pasted image 20240731174110.png",
     "README.md",
     "Data Bases/SQL.md",
     "Operative systems",
-    "Data Bases/Modelo relacional de datos.md",
     "Data Bases/Data definition language.md",
     "Project Management/Artefactos.md",
     "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
@@ -177,18 +171,11 @@
     "Data Bases/Sistema relacional.md",
     "Data Bases/Relación.md",
     "Data Bases/Álgebra relacional.md",
-    "Data Bases/Base de datos.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Relational Data Bases syllabus.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Tipo de dato.md",
     "Data Bases/Transacción.md",
     "Data Bases/Transaction control language.md",
-    "Data Bases/Varrels.md",
-    "Data Bases/Catálogo.md",
-    "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Data control language.md",
-    "Data Bases/Data manipulation Language.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
