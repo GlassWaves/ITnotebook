@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Programming/Unidades en CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Programming/Unidades en CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL.md",
+                "file": "Programming/Unidades en CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL.md"
+                "file": "Programming/Unidades en CSS.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
+    "Programming/Clase objeto.md",
+    "Programming/Unidades en CSS.md",
+    "Data Bases/SQL.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data manipulation Language.md",
@@ -161,7 +164,6 @@
     "Operative systems/Administradores de paquetes.md",
     "Pasted image 20240731174110.png",
     "README.md",
-    "Data Bases/SQL.md",
     "Operative systems",
     "Data Bases/Data definition language.md",
     "Project Management/Artefactos.md",
@@ -174,8 +176,6 @@
     "Relational Data Bases syllabus.md",
     "Data Bases/SQL incrustado.md",
     "Data Bases/Tipo de dato.md",
-    "Data Bases/Transacción.md",
-    "Data Bases/Transaction control language.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
