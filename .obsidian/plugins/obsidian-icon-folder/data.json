@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖥",
       "🐧",
       "⚙",
       "💼",
-      "🏎",
-      "💻"
+      "🏎"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Programming": "💻",
   "Project Management": "💼",
   "Templates": "⚙",
-  "Operative systems": "🐧"
+  "Operative systems": "🖥",
+  "Operative systems/Linux": "🐧"
 }

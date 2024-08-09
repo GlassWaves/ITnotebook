@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operative systems/Filosofía.md",
+                "file": "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operative systems/Filosofía.md",
+                "file": "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operative systems/Filosofía.md",
+                "file": "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operative systems/Filosofía.md"
+                "file": "Operative systems/Linux/Jerarquía del sistema de archivos linux.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
+    "Operative systems/Linux/Filosofía linux.md",
+    "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
+    "Annexes/img/img.Jerarquia del sistema de archivos linux.png",
+    "Annexes/img/img.Relacion.png",
+    "Annexes/img/img.Conjunto abierto.png",
+    "Annexes/img/img.Artefactos.png",
+    "Operative systems/Linux/Permisos en Linux.md",
     "Operative systems/Sistemas de paquetes.md",
-    "Operative systems/Permisos en Linux.md",
+    "Operative systems/Linux",
     "Sources/src.Linux Fundamentals.md",
     "Sources/src.Principios del Manifiesto Agil.md",
     "Sources/src.Lenguaje de control de datos.md",
@@ -159,7 +166,6 @@
     "Data Bases/Esquema de información.md",
     "Data Bases/Data control language.md",
     "Data Bases/Base de datos.md",
-    "Operative systems/Filosofía.md",
     "Programming/Unidades en CSS.md",
     "Data Bases/Relación.md",
     "Programming/Clase objeto.md",
@@ -174,11 +180,6 @@
     "Pasted image 20240731174110.png",
     "README.md",
     "Operative systems",
-    "Data Bases/Data definition language.md",
-    "Project Management/Artefactos.md",
-    "Annexes/img/img.Relacion.png",
-    "Annexes/img/img.Conjunto abierto.png",
-    "Annexes/img/img.Artefactos.png",
     "Project Management",
     "Practice",
     "Programming",
@@ -188,7 +189,6 @@
     "Annexes/img/img.Modo promiscuo.png",
     "Annexes/pdf/pdf.Base de datos repaso cabron.pdf",
     "Relational Data Bases/Notes",
-    "Annexes/pdf",
-    "Annexes/img"
+    "Annexes/pdf"
   ]
 }
