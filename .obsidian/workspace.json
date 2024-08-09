@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operative systems/Linux/Prompt.md",
+                "file": "Operative systems/Linux/Funciones de ayuda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operative systems/Linux/Prompt.md",
+                "file": "Operative systems/Linux/Funciones de ayuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operative systems/Linux/Prompt.md",
+                "file": "Operative systems/Linux/Funciones de ayuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operative systems/Linux/Prompt.md"
+                "file": "Operative systems/Linux/Funciones de ayuda.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
     "Operative systems/Linux/Prompt.md",
+    "Operative systems/Linux/Funciones de ayuda.md",
+    "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
     "Operative systems/Linux/Filosofía linux.md",
     "Annexes/img/img.Jerarquia del sistema de archivos linux.png",
     "Annexes/img/img.Relacion.png",
@@ -179,7 +180,6 @@
     "Data Bases/Dominio.md",
     "Operative systems/Administradores de paquetes.md",
     "Pasted image 20240731174110.png",
-    "README.md",
     "Operative systems",
     "Project Management",
     "Practice",
