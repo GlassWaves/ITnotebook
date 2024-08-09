@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operative systems/Linux/Funciones de ayuda.md",
+                "file": "Operative systems/Linux/Comandos para obtener información del sistema.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operative systems/Linux/Funciones de ayuda.md",
+                "file": "Operative systems/Linux/Comandos para obtener información del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operative systems/Linux/Funciones de ayuda.md",
+                "file": "Operative systems/Linux/Comandos para obtener información del sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operative systems/Linux/Funciones de ayuda.md"
+                "file": "Operative systems/Linux/Comandos para obtener información del sistema.md"
               }
             }
           }
@@ -148,37 +148,37 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Operative systems/Linux/Prompt.md",
-    "Operative systems/Linux/Funciones de ayuda.md",
-    "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
     "Operative systems/Linux/Filosofía linux.md",
-    "Annexes/img/img.Jerarquia del sistema de archivos linux.png",
+    "Operative systems/Linux/Comandos para obtener información del sistema.md",
+    "Ideas.md",
     "Annexes/img/img.Relacion.png",
+    "Annexes/img/img.Jerarquia del sistema de archivos linux.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
-    "Operative systems/Linux/Permisos en Linux.md",
-    "Operative systems/Sistemas de paquetes.md",
-    "Operative systems/Linux",
-    "Sources/src.Linux Fundamentals.md",
-    "Sources/src.Principios del Manifiesto Agil.md",
-    "Sources/src.Lenguaje de control de datos.md",
-    "Sources/src.Escalar matematica.md",
-    "Sources/src.Artefactos de scrum agil.md",
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Esquema de información.md",
-    "Data Bases/Data control language.md",
-    "Data Bases/Base de datos.md",
-    "Programming/Unidades en CSS.md",
-    "Data Bases/Relación.md",
-    "Programming/Clase objeto.md",
+    "Maths/Escalar.md",
+    "Maths/Conjunto abierto.md",
+    "Data Bases/Varrels.md",
+    "Data Bases/Transaction control language.md",
+    "Data Bases/Transacción.md",
+    "Data Bases/SQL incrustado.md",
     "Data Bases/SQL.md",
+    "Data Bases/Relación.md",
+    "Data Bases/Principio de la información.md",
+    "Data Bases/Modelado semántico.md",
+    "Data Bases/Modelo relacional de datos.md",
+    "Data Bases/Data manipulation Language.md",
+    "Data Bases/Dominio.md",
+    "Data Bases/Data definition language.md",
+    "Data Bases/Data control language.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
-    "Data Bases/Data manipulation Language.md",
-    "Data Bases/Modelo relacional de datos.md",
-    "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
-    "Data Bases/Dominio.md",
-    "Operative systems/Administradores de paquetes.md",
+    "Data Bases/Base de datos.md",
+    "Data Bases/Álgebra relacional.md",
+    "Operative systems/Linux/Funciones de ayuda.md",
+    "Operative systems/Linux/Prompt.md",
+    "Operative systems/Linux/Jerarquía del sistema de archivos linux.md",
+    "Operative systems/Linux/Permisos en Linux.md",
+    "Operative systems/Linux",
     "Pasted image 20240731174110.png",
     "Operative systems",
     "Project Management",
