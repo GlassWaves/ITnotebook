@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Unidades en CSS.md",
+                "file": "Operative systems/Filosofía.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Unidades en CSS.md",
+                "file": "Operative systems/Filosofía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Unidades en CSS.md",
+                "file": "Operative systems/Filosofía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Unidades en CSS.md"
+                "file": "Operative systems/Filosofía.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "83fc2143835e9bac",
   "lastOpenFiles": [
-    "Data Bases/Relación.md",
+    "Operative systems/Sistemas de paquetes.md",
+    "Operative systems/Permisos en Linux.md",
+    "Sources/src.Linux Fundamentals.md",
+    "Sources/src.Principios del Manifiesto Agil.md",
+    "Sources/src.Lenguaje de control de datos.md",
+    "Sources/src.Escalar matematica.md",
+    "Sources/src.Artefactos de scrum agil.md",
+    "Data Bases/Sistema relacional.md",
+    "Data Bases/Esquema de información.md",
+    "Data Bases/Data control language.md",
+    "Data Bases/Base de datos.md",
+    "Operative systems/Filosofía.md",
     "Programming/Unidades en CSS.md",
+    "Data Bases/Relación.md",
     "Programming/Clase objeto.md",
     "Data Bases/SQL.md",
     "Data Bases/Catálogo.md",
     "Data Bases/Base de datos Relacional.md",
     "Data Bases/Data manipulation Language.md",
-    "Data Bases/Data control language.md",
     "Data Bases/Modelo relacional de datos.md",
     "Sources/src.Introduccion a Los Sistemas de Bases de Datos.md",
     "Data Bases/Dominio.md",
-    "Data Bases/Base de datos.md",
-    "Operative systems/Sistemas de paquetes.md",
-    "Operative systems/Permisos en Linux.md",
     "Operative systems/Administradores de paquetes.md",
     "Pasted image 20240731174110.png",
     "README.md",
     "Operative systems",
     "Data Bases/Data definition language.md",
     "Project Management/Artefactos.md",
-    "Project Management/Manifiesto por el Desarrollo Ágil de Software.md",
-    "Ideas.md",
-    "Notas pendientes.md",
-    "Data Bases/Sistema relacional.md",
-    "Data Bases/Álgebra relacional.md",
-    "Relational Data Bases syllabus.md",
-    "Data Bases/SQL incrustado.md",
-    "Data Bases/Tipo de dato.md",
     "Annexes/img/img.Relacion.png",
     "Annexes/img/img.Conjunto abierto.png",
     "Annexes/img/img.Artefactos.png",
